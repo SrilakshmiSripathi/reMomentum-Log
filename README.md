@@ -27,7 +27,7 @@ My high-intensity sabbatical focused on **Data 3.0**, **Multi-Cloud Architecture
 
 ## 🛠️ Tech Stack & Skills
 * **Cloud:** AWS, GCP (Multi-cloud integration)
-* **IaC:** Terraform (HCP, Drift Remediation, Governance)
+* **IaC:** Terraform (HCP, Drift Remediation, Governance) and Ansible
 * **Data:** Python, SQL, dbt, Spark, Kafka, BigQuery
 * **Orchestration:** Docker, Kubernetes, Kestra/Mage/Kafka
 
